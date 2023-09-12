@@ -15,6 +15,7 @@
 		1A2A47092AB0A98000146672 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2A47082AB0A98000146672 /* TabBarController.swift */; };
 		1A2A470C2AB0A9F000146672 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2A470B2AB0A9F000146672 /* SecondViewController.swift */; };
 		1A2A470F2AB0AA3700146672 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2A470E2AB0AA3700146672 /* ThirdViewController.swift */; };
+		1A2A47112AB0B79100146672 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A2A47102AB0B79100146672 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		1A2A47082AB0A98000146672 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		1A2A470B2AB0A9F000146672 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		1A2A470E2AB0AA3700146672 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		1A2A47102AB0B79100146672 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				1A2A46F12AB0A2E400146672 /* FirstViewController.swift */,
+				1A2A47102AB0B79100146672 /* TableViewCell.swift */,
 			);
 			path = FirstViewController;
 			sourceTree = "<group>";
@@ -227,6 +230,7 @@
 				1A2A46EE2AB0A2E400146672 /* AppDelegate.swift in Sources */,
 				1A2A470C2AB0A9F000146672 /* SecondViewController.swift in Sources */,
 				1A2A470F2AB0AA3700146672 /* ThirdViewController.swift in Sources */,
+				1A2A47112AB0B79100146672 /* TableViewCell.swift in Sources */,
 				1A2A46F02AB0A2E400146672 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
